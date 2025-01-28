@@ -1,5 +1,5 @@
 ## About Me
-Machine Learning Engineer | AI Researcher | Computer Vision @ https://www.hitachirail.com/ | Machine Learning Research Assisstant @ https://www.iktd.uni-stuttgart.de/
+Machine Learning Engineer | AI Researcher | Computer Vision @ https://www.hitachirail.com/ | Machine Learning Research Assisstant @ https://www.iktd.uni-stuttgart.de/ | Masters in Machine Learning & Signal Processing @ Universität Stuttgart, Germany
 
 
 ## My Passion Is:
