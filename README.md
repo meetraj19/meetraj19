@@ -11,14 +11,14 @@ Currently crafting **multi-agent AI systems** and **computer vision models** at 
 
 ## 🔥 Currently Building
 
-- **Web Agents** for automated workflow management
+- **Multi Agents AI Systems** for workflow Automation and Response Generation from past Learning
 - **Diffusion Models** for autonomous driving applications
-- **RAG Systems** that actually understand context
+- **Advanced RAG Systems** that actually understand context and enhance response in German language in particular.
 
 ## 🛠️ My Stack
 
-**AI/ML:** PyTorch • LangChain • CrewAI • Computer Vision • LLM Fine-tuning  
-**Engineering:** Python • FastAPI • Docker • AWS • Azure  
+**AI/ML:** PyTorch • LangChain • CrewAI • Langgraph • Agno  • Computer Vision • LLM Fine-tuning  
+**Engineering:** Python • FastAPI • Docker • AWS • Azure • Kubernetes   
 **Specialties:** Multi-Agent Systems • MLOps • Production AI
 
 ## 🚀 Featured Work
