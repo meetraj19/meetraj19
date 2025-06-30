@@ -33,7 +33,9 @@ Currently crafting **multi-agent AI systems** and **computer vision models** at 
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/) [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@meetrajj19) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:meetrajsinh19.de@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/) 
+[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@meetrajj19) 
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:meetrajsinh19.de@gmail.com)
 
 ---
 
