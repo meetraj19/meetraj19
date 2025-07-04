@@ -27,10 +27,6 @@ Currently crafting **multi-agent AI systems** and **computer vision models** at 
 
 **[📞 AI Voice Chatbot](https://github.com/meetraj19/Voice_ChatbotMJ)** - Production-ready voice AI with real-time processing and natural conversations
 
-## 📈 Quick Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meetraj19&show_icons=true&theme=radical&hide_border=true)
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/) 
