@@ -1,10 +1,8 @@
 # Hey, I'm Meetrajsinh 👋
 
-## 🚀 ML Engineer building the future with AI
-
 Currently crafting **multi-agent AI systems** and **computer vision models** at **University of Stuttgart** and **Hitachi Rail**. I turn complex AI research into production-ready solutions that actually work.
 
-**What I'm obsessed with:**
+Core:
 - 🤖 **LLMs & AI Agents** - Building systems that think and collaborate
 - 👁️ **Computer Vision** - Teaching machines to see and understand
 - 🚆 **AI in Transportation** - Making autonomous systems safer and smarter
@@ -33,6 +31,4 @@ Currently crafting **multi-agent AI systems** and **computer vision models** at 
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@meetrajj19) 
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:meetrajsinh19.de@gmail.com)
 
----
 
-*Building AI that doesn't just impress in demos, but solves real problems in the real world.* ⚡
