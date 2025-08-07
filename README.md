@@ -7,10 +7,9 @@ Core:
 - 👁️ **Computer Vision** - Teaching machines to see and understand
 - 🚆 **AI in Transportation** - Making autonomous systems safer and smarter
 
-## 🔥 Currently Building
+## Recent Work:
 
-- **Multi Agents AI Systems** for workflow Automation and Response Generation from past Learning
-- **Diffusion Models** for autonomous driving applications
+- **Multi Agents AI Systems** for workflow Automation and Response Generation from past Learning.
 - **Advanced RAG Systems** that actually understand context and enhance response in German language in particular.
 
 ## 🛠️ My Stack
