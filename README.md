@@ -1,33 +1,55 @@
-# Hey, I'm Meetrajsinh 👋
+# Meetrajsinh Jadeja
 
-Currently crafting **multi-agent AI systems** and **computer vision models** at **University of Stuttgart** and **Hitachi Rail**. I turn complex AI research into production-ready solutions that actually work.
+**Machine Learning Engineer** | Stuttgart, Germany
 
-Core:
-- 🤖 **LLMs & AI Agents** - Building systems that think and collaborate
-- 👁️ **Computer Vision** - Teaching machines to see and understand
-- 🚆 **AI in Transportation** - Making autonomous systems safer and smarter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:meetrajsinh19.de@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@meetrajj19)
 
-## Recent Work:
+## Overview
 
-- **Multi Agents AI Systems** for workflow Automation and Response Generation from past Learning.
-- **Advanced RAG Systems** that actually understand context and enhance response in German language in particular.
+Machine Learning Engineer specializing in Large Language Models, Computer Vision, and Multi-Agent AI Systems. A  M.Sc. in Mechatronics at University of Stuttgart with focus on Machine Learning and Software Engineering. Experienced in developing end-to-end ML pipelines, implementing MLOps practices, and deploying AI solutions in industrial environments.
 
-## 🛠️ My Stack
+## Worked as:
 
-**AI/ML:** PyTorch • LangChain • CrewAI • Langgraph • Agno  • Computer Vision • LLM Fine-tuning  
-**Engineering:** Python • FastAPI • Docker • AWS • Azure • Kubernetes   
-**Specialties:** Multi-Agent Systems • MLOps • Production AI
+**Machine Learning Research Assistant** | IKTD, University of Stuttgart | 
+**Computer Vision Engineer** | Hitachi Rail | 
 
-## 🚀 Featured Work
+## Technical Stack
 
-**[🚛 AI Transport Planner](https://github.com/meetraj19/AI_Transport_planner)** - Multi-agent system that analyzes past projects to optimize new freight solutions
+### AI/ML Frameworks
+`PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `CrewAI` `Agno` `LangChain` `LangGraph`
 
-**[📞 AI Voice Chatbot](https://github.com/meetraj19/Voice_ChatbotMJ)** - Production-ready voice AI with real-time processing and natural conversations
+### Core Technologies
+- **LLMs & NLP**: RAG Systems, LoRA Fine-tuning, Multi-Agent Systems, Prompt Engineering
+- **Computer Vision**: Object Detection, Image Segmentation, Visual SLAM, OCR Integration
+- **Cloud & MLOps**: AWS SageMaker, AWS Bedrock, Azure ML, Docker, Kubernetes, CI/CD
 
-## 🤝 Let's Connect
+### Programming & Tools
+`Python` `C++` `SQL` `FastAPI` `Git` `MongoDB` `PostgreSQL`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meetrajsinh-jadeja-04601a186/) 
-[![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium)](https://medium.com/@meetrajj19) 
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:meetrajsinh19.de@gmail.com)
+## Professional Highlights
 
+- Developed comprehensive RAG systems with context-optimized retrieval and dynamic strategies
+- Implemented multi-agent AI systems for technical drawing analysis and feedback generation
+- Fine-tuned LLaMA 2 models using LoRA for domain-specific applications
+- Designed Visual SLAM pipelines for autonomous train systems
+- Created production-ready REST APIs for ML model deployment
+- Consulted companies on LLM implementation strategies
+
+## Research Interests
+
+- Multi-Agent AI Systems
+- Industrial Computer Vision Applications
+- LLM based Applications
+- MLOps and Production AI Systems
+- Autonomous  Systems
+
+## Languages
+
+**German**: C1 (Business Proficient) | **English**: Business Fluent
+
+---
+
+*Open to collaborations on AI/ML projects and research initiatives*
 
