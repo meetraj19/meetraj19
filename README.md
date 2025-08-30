@@ -8,7 +8,7 @@
 
 ## Overview
 
-Machine Learning Engineer specializing in Large Language Models, Computer Vision, and Multi-Agent AI Systems. A  M.Sc. in Mechatronics at University of Stuttgart with focus on Machine Learning and Software Engineering. Experienced in developing end-to-end ML pipelines, implementing MLOps practices, and deploying AI solutions in industrial environments.
+Machine Learning Engineer specializing in Large Language Models, Computer Vision, and Multi-Agent AI Systems. A  M.Sc. in Mechatronics at University of Stuttgart with focus on Machine Learning and Software Engineering. Experienced in developing end-to-end ML pipelines, implementing MLOps practices, and deploying AI solutions in industrial environments as well as in Research Domain.
 
 ## Worked as:
 
@@ -21,7 +21,7 @@ Machine Learning Engineer specializing in Large Language Models, Computer Vision
 `PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `CrewAI` `Agno` `LangChain` `LangGraph`
 
 ### Core Technologies
-- **LLMs & NLP**: RAG Systems, LoRA Fine-tuning, Multi-Agent Systems, Prompt Engineering
+- **LLMs & NLP**: RAG Systems, LoRA Fine-tuning, Multi-Agent Systems, Prompt Engineering 
 - **Computer Vision**: Object Detection, Image Segmentation, Visual SLAM, OCR Integration
 - **Cloud & MLOps**: AWS SageMaker, AWS Bedrock, Azure ML, Docker, Kubernetes, CI/CD
 
